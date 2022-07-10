@@ -1,6 +1,5 @@
 # importing tkinter for gui
 from http.client import ImproperConnectionState
-import os
 import sys
 import tkinter as tk
 from tkinter import *
