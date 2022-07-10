@@ -3,12 +3,6 @@ import sys
 import tkinter as tk
 from tkinter import *
 from tkinter.ttk import *
-from tkinter import messagebox
-from tkinter import filedialog
-from PIL import ImageTk, Image
-
-
-from matplotlib.pyplot import fill
 
 # creating window
 ModelValidation = tk.Tk()

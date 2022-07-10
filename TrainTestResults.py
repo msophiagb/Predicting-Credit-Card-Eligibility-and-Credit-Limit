@@ -3,8 +3,6 @@ import sys
 import tkinter as tk
 from tkinter import *
 from tkinter.ttk import *
-from matplotlib.pyplot import fill
-import time
 
 # creating window
 TTResult = tk.Tk()

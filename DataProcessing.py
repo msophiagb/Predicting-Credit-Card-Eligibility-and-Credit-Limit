@@ -1,11 +1,9 @@
 # importing tkinter for gui
-from http.client import ImproperConnectionState
 import sys
 import tkinter as tk
 from tkinter import *
 from tkinter.ttk import *
-from tkinter import messagebox
-from tkinter import filedialog
+from tkinter import messagebox, filedialog
 
 # creating window
 DataProcessing = tk.Tk()
